@@ -1,0 +1,3 @@
+env/Lib/
+env/__pycache__
+env/Scripts/*.exe
