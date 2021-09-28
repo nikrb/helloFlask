@@ -11,7 +11,7 @@
             "justMyCode": false,
             "module": "flask",
             "env": {
-                "FLASK_APP": "app.py",
+                "FLASK_APP": "helloApp.webapp",
                 "FLASK_ENV": "development",
                 "FLASK_DEBUG": "0"
             },

@@ -1,3 +1,4 @@
 env/Lib/
-env/__pycache__
+/env/__pycache++
+helloApp/__pycache__
 env/Scripts/*.exe
